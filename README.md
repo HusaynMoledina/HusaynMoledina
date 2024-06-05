@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @HusaynMoledina
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Data Analytics as a whole
 - 🌱 I’m currently learning Mathematics and Applied Statistics
 - 💞️ I’m looking to collaborate on Linkedin
 - 📫 How to reach me: husaynsajjad@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Quite grim but I almost died 6 years ago
+- ⚡ Fun fact: Love Studying about Religion
 
 <!---
 HusaynMoledina/HusaynMoledina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
